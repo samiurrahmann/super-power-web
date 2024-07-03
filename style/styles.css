@@ -1,0 +1,87 @@
+header{
+    text-align: center;
+    font-size: 50px;   
+    border-bottom: 10px solid;
+    border-color: rgba(6, 1, 29, 0.795);   
+     font-family: "Bungee Shade", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+      
+      
+    
+}
+.noob{
+    /* {float: ;} this can make my side */
+  float: right;  
+  box-shadow: 10px 10px 10px  ;
+  border-radius: 5px;
+}
+.local{
+    
+    font-size: 18px;
+}
+.loke{
+    float: left;
+    box-shadow: 10px 10px 10px;
+    border-radius: 5px;
+}
+.textbox {
+   text-align: left;
+}
+#thered{
+     
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 11,
+    "SHLN" 100;
+
+}
+#thered{
+    font-family: "Bungee Shade", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+#thered{
+    
+    font-size: 70px;
+    text-align: left;
+    text-shadow: 10px 10px 20px;
+    padding-left: 400px;
+    
+  }
+.blod{
+    font-size: 20px;
+    
+    
+    font-weight: bold;
+}
+.oppo{
+    box-shadow: 10px 10px 10px;
+}
+.kill{
+    float: right;
+    box-shadow: 10px 10px 10px;
+}
+.move{
+    box-shadow: 10px 10px 10px ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#look{
+    float: right;
+}
+#END{
+    text-align: center;
+
+}
+body{
+    background-image: url("../image/bg.gif");
+    background-repeat: no-repeat;
+    
+    background-attachment: fixed;
+    background-size: cover;
+}
